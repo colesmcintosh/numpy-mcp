@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/colesmcintosh-numpy-mcp-badge.png)](https://mseep.ai/app/colesmcintosh-numpy-mcp)
+
 # NumPy MCP Server
 
 <div align="center">
